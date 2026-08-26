@@ -27,3 +27,13 @@ Routed it, swapped to USB A because there are no good USB C male connectors. Use
 ![](journal/routing.png)
 
 Time spent: 0.2 hours
+
+## 26 August
+
+Got a quote and got the BOM. Had to rotate one thing.
+
+![](journal/preview.png)
+
+I hope $29 is acceptable....
+
+Time spent: 0.2 hours
