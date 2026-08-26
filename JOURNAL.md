@@ -18,3 +18,12 @@ Simple layout done
 tbd if the top usb bit is routable, but the SD is.
 
 Time spent: 0.25 hours
+
+# 26 August
+
+Routed it, swapped to USB A because there are no good USB C male connectors. Use a dongle. It's okay.
+
+
+![](journal/routing.png)
+
+Time spent: 0.2 hours
