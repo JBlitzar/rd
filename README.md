@@ -20,7 +20,7 @@ I made this project because I needed a project scoped to be able to speedrun in 
 
 ## PCB
 
-![](docs/pcb.png)
+![](docs/pcb_1.png)
 
 
 ## Production outputs like gerbers
