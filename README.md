@@ -30,6 +30,8 @@ Find them in [PCB/rd/production](PCB/rd/production)!
 
 ## BOM
 
+Order by uploading the fabrication outputs (linked above) to jlcpcb!
+
 |Item         |Cost |Notes                                                                   |
 |-------------|-----|------------------------------------------------------------------------|
 |5x PCB (MOQ) |2.0  |order off of JLCONE desktop to save two dollars instead of it costing $4|
