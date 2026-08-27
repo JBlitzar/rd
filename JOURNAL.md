@@ -37,3 +37,16 @@ Got a quote and got the BOM. Had to rotate one thing.
 I hope $29 is acceptable....
 
 Time spent: 0.2 hours
+
+
+## 26 August
+
+Final touches. I did some stuff on the silkscreen (added my name and #dongle), re-exported everything, made a blender render (had to tweak compositing), re-quoted on JLCONE, and did a pass on the README! Finally the grand total is under $20 (barely lol) yayayayay!!
+
+Investigated using an edge connector but it's not worth it. Worse fit, need to pay $30 more or do a case, etc etc. 
+
+![](journal/commits.png)
+
+I think I'm ready to submit!
+
+Time spent: 0.3 hours
