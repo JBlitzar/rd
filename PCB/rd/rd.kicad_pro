@@ -648,7 +648,7 @@
         "uuid": "dbc6aea7-bd01-4206-baa9-133a282a0cbe"
       }
     ],
-    "used_designators": "R1-2,R7-11,Card1,C1-3,C29,#PWR1-9,#PWR19,#PWR32-33,#PWR35,#PWR48-50,U1,LED1,USB1",
+    "used_designators": "C4",
     "variants": []
   },
   "sheets": [

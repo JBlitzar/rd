@@ -50,3 +50,11 @@ Investigated using an edge connector but it's not worth it. Worse fit, need to p
 I think I'm ready to submit!
 
 Time spent: 0.3 hours
+
+## 26 August
+
+Emergency addition of 47uF cap as per peer advice. Eliminated the 100uF in tandem ([1](https://www.signalintegrityjournal.com/articles/1589-the-myth-of-three-capacitor-values))
+
+Re-exported. Assumed the quote is $0.33 more all the way through after clicking through a bit. 19.79 still gets me barely under $20 !!
+
+Time spent: 0.2 hours

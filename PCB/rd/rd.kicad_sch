@@ -1262,6 +1262,197 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "lcsc:CL21A476MQYNNNE"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CL21A476MQYNNNE"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0805"
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL21A476MQYNNNE_47uF-476-20-6-3V_C16780.html"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "47uF (476) ±20% 6.3V"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "SAMSUNG(三星)"
+				(at 0 -12.7 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "CL21A476MQYNNNE"
+				(at 0 -15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C16780"
+				(at 0 -17.78 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "Multilayer Ceramic Capacitors MLCC - SMD/SMT"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CL21A476MQYNNNE_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 2.03) (xy -0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "lcsc:GL823K-HCY04"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2072,6 +2263,16 @@
 	)
 	(wire
 		(pts
+			(xy 223.52 26.67) (xy 223.52 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "058b24dc-e47f-4dc1-aafa-91bebc881512")
+	)
+	(wire
+		(pts
 			(xy 167.64 48.26) (xy 177.8 48.26)
 		)
 		(stroke
@@ -2099,6 +2300,16 @@
 			(type default)
 		)
 		(uuid "1b7f463a-4f14-4cde-acdf-2d5a48b24048")
+	)
+	(wire
+		(pts
+			(xy 209.55 26.67) (xy 223.52 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f705204-47fd-4b0a-8630-c3062914d55d")
 	)
 	(wire
 		(pts
@@ -2179,6 +2390,26 @@
 			(type default)
 		)
 		(uuid "741974c0-bf86-4247-a2da-c0c7db1286ed")
+	)
+	(wire
+		(pts
+			(xy 209.55 34.29) (xy 223.52 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80a3b2f7-4033-4e6a-a059-d82178980ce9")
+	)
+	(wire
+		(pts
+			(xy 223.52 34.29) (xy 223.52 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "938c051d-a086-4217-9070-7cb016da3746")
 	)
 	(wire
 		(pts
@@ -4127,8 +4358,8 @@
 		)
 	)
 	(symbol
-		(lib_id "lcsc:CL05B104KO5NNNC")
-		(at 223.52 30.48 90)
+		(lib_id "lcsc:CL21A476MQYNNNE")
+		(at 209.55 30.48 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4137,9 +4368,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "bdfab9f8-2800-457b-bc81-480d475b5e8c")
-		(property "Reference" "C2"
-			(at 227.33 29.2099 90)
+		(uuid "c6c21155-a22b-469c-ad12-b351dd3bdc50")
+		(property "Reference" "C4"
+			(at 213.36 29.2099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4149,8 +4380,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF"
-			(at 227.33 31.7499 90)
+		(property "Value" "47uF"
+			(at 213.36 31.7499 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4160,8 +4391,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:C0402"
-			(at 231.14 30.48 0)
+		(property "Footprint" "easyeda2kicad:C0805"
+			(at 217.17 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4171,8 +4402,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL05B104KO5NNNC_100nF-104-10-16V_C1525.html"
-			(at 233.68 30.48 0)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL21A476MQYNNNE_47uF-476-20-6-3V_C16780.html"
+			(at 219.71 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4182,8 +4413,8 @@
 				)
 			)
 		)
-		(property "Description" "100nF (104) ±10% 16V"
-			(at 223.52 30.48 0)
+		(property "Description" "47uF (476) ±20% 6.3V"
+			(at 209.55 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4194,7 +4425,7 @@
 			)
 		)
 		(property "Manufacturer" "SAMSUNG(三星)"
-			(at 236.22 30.48 0)
+			(at 222.25 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4204,8 +4435,8 @@
 				)
 			)
 		)
-		(property "MPN" "CL05B104KO5NNNC"
-			(at 238.76 30.48 0)
+		(property "MPN" "CL21A476MQYNNNE"
+			(at 224.79 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4215,8 +4446,8 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1525"
-			(at 241.3 30.48 0)
+		(property "LCSC Part" "C16780"
+			(at 227.33 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4225,17 +4456,17 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "2"
-			(uuid "7b21fdbf-c15c-42f1-9455-ee358a6ff6c1")
 		)
 		(pin "1"
-			(uuid "33ffa8e9-6e80-45b8-983b-3b55e88fdcd7")
+			(uuid "f182e41a-397d-4a9c-82ac-7cad30bb51c2")
+		)
+		(pin "2"
+			(uuid "16c89c0a-94f9-4208-86cd-b9a8fc23bebb")
 		)
 		(instances
 			(project "rd"
 				(path "/dbc6aea7-bd01-4206-baa9-133a282a0cbe"
-					(reference "C2")
+					(reference "C4")
 					(unit 1)
 				)
 			)
