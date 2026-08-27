@@ -32,9 +32,11 @@ Find them in [PCB/rd/production](PCB/rd/production)!
 
 |Item         |Cost |Notes                                                                   |
 |-------------|-----|------------------------------------------------------------------------|
-|5x PCB (MOQ) |2.1  |order off of JLCONE desktop to save two dollars instead of it costing $4|
+|5x PCB (MOQ) |2.0  |order off of JLCONE desktop to save two dollars instead of it costing $4|
 |2x PCBA (MOQ)|23.82|                                                                        |
 |Shipping     |3.3  |Shipping special offer, otherwise costs 7                               |
-|Total        |29.22|                                                                        |
+|Total        |29.12|                                                                        |
 
-NOTE: I have the $9 PCBA special offer, bringing the total down to $20.22.
+NOTE: I have the $9 PCBA special offer, a $2.09 JLC exclusive discount, and +$1.43 sales tax. My grand total is $19.46
+
+![](docs/cart.png)
