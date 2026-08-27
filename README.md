@@ -3,11 +3,16 @@
 ![](blend/render1.png)
 
 
-microSD card reader. A really simple one, using GL823K. It has a green status LED for activity!
+microSD card reader. it exposes microSD cards as a block device that you can read and write to!
 
-Supports USB 2.0 HS and microSD HS. This is well-matched, it pretty much saturates the USB2.0 link.
+Features:
+ - dead-simple schematic thanks to the GL823K chip
+ - green status LED for activity
+ - 4mm keychain hole
+ - supports USB 2.0 HS and microSD HS. This means up to 25 MB/s ! 
 
-I made this project because I needed a project scoped to be able to speedrun in 36 hours wall-clock and very little actual working time. It grants me utility-- this way I can read and write to microSD cards super easily, using a dongle I created!! I think microSD cards are uniquely very versatile. There are ones with industrially-rated durability. There are ones that go up to 2TB. There are ones that are so dirt-cheap they cost only a little bit more than the raw NAND inside them. Also, this project unlocks a new ASIC for me that I haven't used before.  
+
+I made this project because I needed a project scoped to be able to speedrun in 36 hours wall-clock and very little actual working time. It grants me utility-- this way I can read and write to microSD cards super easily in a small form factor, using a dongle I created!! I think microSD cards are uniquely very versatile. There are ones with industrially-rated durability. There are ones that go up to 2TB. There are ones that are so dirt-cheap they cost only a little bit more than the raw NAND inside them. Also, this project unlocks a new ASIC for me that I haven't used before.  
 
 |       |  |
 | ----------- | ----------- |
