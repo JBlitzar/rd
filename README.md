@@ -43,9 +43,3 @@ Order by uploading the fabrication outputs (linked above) to jlcpcb!
 |2x PCBA (MOQ)|24.15|                                                                        |
 |Shipping     |3.3  |Shipping special offer, otherwise costs 7                               |
 |Total        |29.45|                                                                        |
-
-NOTE: I have the $9 PCBA special offer, a $2.09 JLC exclusive discount, and +$1.43 sales tax. My grand total is $19.79
-
-(slightly out of date screenshot (I added a 47uF cap) but same thing)
-
-![](docs/cart.png)
